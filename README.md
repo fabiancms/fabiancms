@@ -49,14 +49,6 @@
 
 🔗 [View Project](https://github.com/fabiancms/Operador-Teleco-Llamadas-telefonicas)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiancms&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiancms&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -71,8 +63,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/fabianmedina-dataanalyst/
+- 📧 Email: fabiancms@gmail.com
 
 ---
 
